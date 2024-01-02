@@ -1,0 +1,21 @@
+------------------------------------------------------
+| LANGKAH-LANGKAH INSTALL DISPLAY ANTRIAN
+------------------------------------------------------
+    1.  Install PYTHON yang ada pada folder ini
+        Pilih sesuai dengan tipe sistem operasi ( 64bit/ 32bit(x86) )
+    
+    2.  Saat melakukan instalasi Lihat Gambar yang ada pada folder ini (gambar_instalasi.jpg)
+        pastikan sesuai dengan gambar.
+    
+    3.  Setelah instalasi PYTHON selesai lakukan pengecakan di CMD dengan cara ketik "python" pada CMD tanpa tanda petik
+        Pastikan informasi mengenai python keluar conth: Python 3.7.3
+    
+    4.  Seletah itu pastikan komputer ter instal google chrome sesuai dengan tipe sistem operasi ( 64bit/ 32bit(x86) )
+        Jika Chrome belum tersedia  silahkan install terlebih dahulu 
+    
+    5.  Edit file : start.bat yang ada pada folder app.
+        Ubah sesuai petunjuk pada gambar cara ubah url pada folder ini.
+    
+    6.  Seletelah semua selesai silahkan ujicoba dan pastikan layar kedua dihidupkan terlebih dahulu dalam posisi Extend
+    
+    7.  Jika berhasil silahkan buat shorcut start.bat ke desktop dan ganti dengan icon yang ada pada folder ini
